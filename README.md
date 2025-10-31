@@ -7,7 +7,7 @@ A type-safe Swift DSL for PrismJS syntax highlighting, built on swift-html.
 
 ## Overview
 
-swift-html-prism provides a strongly-typed Swift interface for integrating PrismJS syntax highlighting into server-side rendered HTML. It leverages swift-html's type-safe HTML DSL to generate syntax-highlighted code blocks with compile-time guarantees.
+swift-html-prism provides a strongly-typed Swift interface for integrating PrismJS syntax highlighting into server-side rendered HTML. It uses swift-html's type-safe HTML DSL to generate syntax-highlighted code blocks with compile-time guarantees.
 
 ## Features
 
