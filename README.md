@@ -318,8 +318,7 @@ let config = Prism.Configuration(
 
 ## Related Packages
 
-- [swift-html](https://github.com/coenttb/swift-html) - A Swift DSL for type-safe HTML
-- [swift-css](https://github.com/coenttb/swift-css) - A Swift DSL for type-safe CSS
+- [swift-html](https://github.com/coenttb/swift-html) - The Swift library for domain-accurate and type-safe HTML & CSS
 
 ## License
 
