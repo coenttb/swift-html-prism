@@ -318,7 +318,7 @@ let config = Prism.Configuration(
 
 ## Related Packages
 
-- [swift-html](https://github.com/coenttb/swift-html) - The Swift library for domain-accurate and type-safe HTML & CSS
+- [swift-html](https://github.com/coenttb/swift-html) - The Swift library for domain-accurate and type-safe HTML & CSS.
 
 ## License
 
